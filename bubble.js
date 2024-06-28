@@ -31,7 +31,7 @@ class Particle{
             this.radius
         );
 
-        gradient.addColorStop(0.3, "rgba(255, 255, 255, 0.3)");
+        gradient.addColorStop(0.3, "rgba(124, 255, 124, 0.3)");
         gradient.addColorStop(0.95, "#e7feff");
 
         context.fillStyle = gradient;
